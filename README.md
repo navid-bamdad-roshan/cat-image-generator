@@ -22,4 +22,41 @@ During the training process, the discriminator component is trained with real an
 
 The cat image generator GAN neural network is trained for 600 epochs. Despite a relatively small network and a little number of training epochs, the GAN shows a relatively good performance in generating cat images.
 
-You can see examples and illustrations in the [Google colab notebook](https://colab.research.google.com/drive/1Hb0W0vehom19ZYOAAmvMrFsbHcAarv3l?usp=sharing).
+### Generator training progress:
+
+#### Epoch 0:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_0.png?raw=true "Title")
+
+
+#### Epoch 100:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_100.png?raw=true "Title")
+
+#### Epoch 150:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_150.png?raw=true "Title")
+
+#### Epoch 200:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_200.png?raw=true "Title")
+
+#### Epoch 250:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_250.png?raw=true "Title")
+
+#### Epoch 300:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_300.png?raw=true "Title")
+
+#### Epoch 350:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_350.png?raw=true "Title")
+
+#### Epoch 400:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_400.png?raw=true "Title")
+
+#### Epoch 450:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_450.png?raw=true "Title")
+
+#### Epoch 500:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_500.png?raw=true "Title")
+
+#### Epoch 550:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_550.png?raw=true "Title")
+
+#### Epoch 600:
+![epoch 0](./training_progress_images/training_progress_images/generator_epoch_600.png?raw=true "Title")
